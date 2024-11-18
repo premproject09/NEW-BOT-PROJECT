@@ -1,6 +1,6 @@
 {
     "language": "en",
-    "keyActive": "bok",
+    "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
     "allowInbox": true,
@@ -10,11 +10,11 @@
     "EMAIL": "",
     "PASWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "BAD-BOT",
-    "PREFIX": ".",
+    "BOTNAME": "TAKLU BABU",
+    "PREFIX": "#",
     "ADMINBOT": [
-        "100011152309303",
-        "61564400903050",
+        "100070531069371",
+        "",
         "",
         "",
         "",
